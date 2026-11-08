@@ -7,3 +7,5 @@ local.properties
 .cxx/
 .DS_Store
 Thumbs.db
+.artifacts/
+**/.artifacts/
