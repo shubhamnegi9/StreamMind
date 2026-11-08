@@ -1,6 +1,6 @@
 # StreamMind
 
-**StreamMind is an AI-powered video companion for Android.** It combines a Media3 video player with transcript-grounded retrieval, Gemini-powered video understanding, personalized discovery, learning tools, and accessibility support.
+**StreamMind is an AI-powered video player for Android.** It combines a Media3 video player with transcript-grounded retrieval, Gemini-powered video understanding, personalized discovery, learning tools, and accessibility support.
 
 The project demonstrates how a mobile product can combine **Kotlin, Jetpack Compose, modular architecture, Room persistence, retrieval-augmented generation (RAG), multimodal AI, deterministic fake/live implementations, and quota-aware network behavior**.
 
