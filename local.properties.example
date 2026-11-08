@@ -1,0 +1,5 @@
+# Copy this file to local.properties (which is gitignored) and fill in your own key.
+sdk.dir=/path/to/your/Android/sdk
+
+# Get a free key at https://aistudio.google.com/app/apikey
+GEMINI_API_KEY=your_api_key_here

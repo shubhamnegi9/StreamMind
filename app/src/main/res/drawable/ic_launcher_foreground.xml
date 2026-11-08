@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded play triangle, sized to stay inside the ~66dp safe zone that
+         adaptive icon masks (circle/squircle/rounded square) won't clip. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,32 C38,29.8 40.4,28.4 42.3,29.5 L78,50 C79.9,51.1 79.9,53.9 78,55 L42.3,75.5 C40.4,76.6 38,75.2 38,73 Z" />
+    <!-- Small accent spark, top-right of the triangle, hinting at "AI" without
+         relying on any text glyph (text in adaptive icons scales badly). -->
+    <path
+        android:fillColor="#8B7CF6"
+        android:pathData="M76,24 L78.4,29.6 L84,32 L78.4,34.4 L76,40 L73.6,34.4 L68,32 L73.6,29.6 Z" />
+</vector>
